@@ -1,0 +1,10 @@
+C:\Users\Meral_Bilgisayar\Desktop\Safa\c_sharp\FPGA_Communication\bin\Debug\WindowsApplication.exe.config
+C:\Users\Meral_Bilgisayar\Desktop\Safa\c_sharp\FPGA_Communication\bin\Debug\WindowsApplication.exe
+C:\Users\Meral_Bilgisayar\Desktop\Safa\c_sharp\FPGA_Communication\bin\Debug\WindowsApplication.pdb
+C:\Users\Meral_Bilgisayar\Desktop\Safa\c_sharp\FPGA_Communication\obj\x86\Debug\test.csproj.AssemblyReference.cache
+C:\Users\Meral_Bilgisayar\Desktop\Safa\c_sharp\FPGA_Communication\obj\x86\Debug\FPGA_Communication.Form1.resources
+C:\Users\Meral_Bilgisayar\Desktop\Safa\c_sharp\FPGA_Communication\obj\x86\Debug\test.Properties.Resources.resources
+C:\Users\Meral_Bilgisayar\Desktop\Safa\c_sharp\FPGA_Communication\obj\x86\Debug\test.csproj.GenerateResource.cache
+C:\Users\Meral_Bilgisayar\Desktop\Safa\c_sharp\FPGA_Communication\obj\x86\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\Meral_Bilgisayar\Desktop\Safa\c_sharp\FPGA_Communication\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Meral_Bilgisayar\Desktop\Safa\c_sharp\FPGA_Communication\obj\x86\Debug\WindowsApplication.pdb
